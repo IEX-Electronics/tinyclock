@@ -9,3 +9,6 @@ to make a USB to dual USB adapter, but I ran out of budget for tier 4 (the tier 
 ## Concept Sketches
 <img width="1920" height="905" alt="スクリーンショット 2026-01-08 20 12 07" src="https://github.com/user-attachments/assets/719bbffd-eb2b-4596-bb60-b4dd04b567bc" />
 PCB with resistors added. I don't have any 3D model for seeed studio rp2040 nor the 7-segment display, but this is how it should look, (roughly)
+
+<img width="1792" height="1132" alt="スクリーンショット 2026-01-09 8 27 38" src="https://github.com/user-attachments/assets/b14a576d-0e62-4fec-b7f4-bdc7c44765f7" />
+Chassis with connetor body (this makes sure that it can stay upright.
