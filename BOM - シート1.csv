@@ -1,0 +1,5 @@
+Item,Quantity,Subtotal,Name,Link,Final Price (+ shipping and tax)
+1,1,$4.95,Adafruit 4x7-segment display,https://www.adafruit.com/product/1001,$10.43
+2,7,$0.70,CF14JT220R Resistor (220ohm),https://www.digikey.com/en/products/detail/stackpole-electronics-inc/CF14JT220R/1741346,"$7.80 (Estimated, shipping may cost a little bit more)"
+3,1,$4.99,Seeed Studio (XIAO-RP2040),https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html,$11.50
+4,1,$5.00,PCBWay PCB Board,,$17.14
